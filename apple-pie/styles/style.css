@@ -20,5 +20,17 @@ body {
   font-family: "Helvetica", sans-serif;
 }
 
+
 /* STYLES */
 /* Write your CSS below */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.hero {
+  background-image: url(https://camo.githubusercontent.com/1e9d7c3f447bb7ba283ac9b9450d1b32761af6b595a0fecf5012d229c1d5fe7f/68747470733a2f2f692e696d6775722e636f6d2f6c47474d3638512e6a7067);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
